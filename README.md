@@ -39,7 +39,7 @@ We are the **biggest technical club at Dr. AIT**. Here is what we care about:
 
 - 🔍 **Learning new technologies** through hands-on exploration
 - 🛠️ **Building real-world projects** that solve real problems
-- 🌍 **Open-source development** and collaboration
+- 🌍 **Open-source development** and collaboration.
 - 🎤 **Workshops, hackathons, and technical events**
 - 🤝 **Peer-to-peer learning** and knowledge sharing
 - 🔗 **Connecting** developers, innovators, and technology enthusiasts
