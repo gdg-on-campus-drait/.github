@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/banner.png" alt="Google Developer Group on Campus – Dr. Ambedkar Institute of Technology" width="100%"/>
+
 # GDG on Campus – Dr. AIT
 
 ### Dr. Ambedkar Institute of Technology, Bengaluru
@@ -33,7 +35,7 @@ A student-led developer community for learning new technologies, building real p
 
 **GDG on Campus – Dr. AIT** is a student-led developer community at Dr. Ambedkar Institute of Technology, Bengaluru, and part of the global [Google Developer Groups](https://developers.google.com/community/gdg) network. We bring together students who enjoy technology, whatever their branch, year, or experience.
 
-We are one of the most active technical communities on campus. Here is what we care about:
+We are the **biggest technical club at Dr. AIT**. Here is what we care about:
 
 - 🔍 **Learning new technologies** through hands-on exploration
 - 🛠️ **Building real-world projects** that solve real problems
