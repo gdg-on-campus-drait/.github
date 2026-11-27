@@ -199,9 +199,7 @@ Sign up on our official GDG community page for event updates and to stay connect
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gdg-on-campus-drait)
 [![GDG Community](https://img.shields.io/badge/GDG_Community-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gdg.community.dev/gdg-on-campus-dr-ambedkar-institute-of-technology-bengaluru-india/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gdg_drait/)
-<!-- LinkedIn: replace the URL below with the official LinkedIn page, then remove these comment markers.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](ADD_OUR_OFFICIAL_LINKEDIN_URL_HERE)
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/groups/8102828/)
 
 </div>
 
@@ -210,7 +208,7 @@ Sign up on our official GDG community page for event updates and to stay connect
 | **GitHub** | [github.com/gdg-on-campus-drait](https://github.com/gdg-on-campus-drait) |
 | **GDG Community** | [gdg.community.dev/gdg-on-campus-dr-ambedkar-institute-of-technology-bengaluru-india](https://gdg.community.dev/gdg-on-campus-dr-ambedkar-institute-of-technology-bengaluru-india/) |
 | **Instagram** | [@gdg_drait](https://www.instagram.com/gdg_drait/) |
-| **LinkedIn** | [ADD OUR OFFICIAL LINKEDIN URL HERE] |
+| **LinkedIn** | [GDG on Campus – Dr. AIT LinkedIn Group](https://www.linkedin.com/groups/8102828/) |
 
 ---
 
